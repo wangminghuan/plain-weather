@@ -1,0 +1,15 @@
+{
+	"description": "A WePY project",
+	"setting": {
+		"urlCheck": true,
+		"es6": false,
+		"postcss": false,
+		"minified": false,
+		"newFeature": true
+	},
+	"compileType": "miniprogram",
+	"appid": "wx4e4be95a2ae49e71",
+	"projectname": "plain-weather",
+	"miniprogramRoot": "./dist",
+	"condition": {}
+}
