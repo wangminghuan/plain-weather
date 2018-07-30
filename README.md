@@ -8,4 +8,4 @@
 采用腾讯官方的[小程序组件化开发框架](https://tencent.github.io/wepy/)
 
 ## 其他
-待补充...
+1. 遇到一个异步数据无法刷新dom的坑，得手动触发下this.$apply();详见[小程序笔记](https://blog.csdn.net/yaodong379/article/details/79210201)
